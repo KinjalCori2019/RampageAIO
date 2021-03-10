@@ -1,0 +1,24 @@
+{
+   "name": "my-electron-app",
+    "version": "0.1.0",
+    "author": "your name",
+    "description": "My Electron app",
+    "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinjalCori2019/RampageAIO.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KinjalCori2019/RampageAIO/issues"
+  },
+  "homepage": "https://github.com/KinjalCori2019/RampageAIO#readme",
+  "devDependencies": {
+    "electron": "^12.0.0"
+  }
+}
